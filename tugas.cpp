@@ -9,6 +9,8 @@
 using namespace std;
 
 class Barang 
+
+
 {
     public:
         string namaBarang;
